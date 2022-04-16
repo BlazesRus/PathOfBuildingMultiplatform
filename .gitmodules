@@ -1,0 +1,9 @@
+[submodule "Launcher"]
+	path = Launcher
+	url = https://github.com/BlazesRus/PathOfBuilding-Launcher.git
+[submodule "LuaEnv"]
+	path = LuaEnv
+	url = https://github.com/PathOfBuildingCommunity/PathOfBuilding-SimpleGraphic.git
+[submodule "PathOfBuilding"]
+	path = PathOfBuilding
+	url = https://github.com/BlazesRus/PathOfBuilding.git
